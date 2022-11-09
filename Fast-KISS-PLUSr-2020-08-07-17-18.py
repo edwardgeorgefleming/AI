@@ -87,6 +87,7 @@ for k in range(20):
                 if save_op[j] != Test:
                     insufficient_data = True
                     
+        for j in range(1,nj1):
             if save_op[j] == 2:
                 Z = Z or (A[j1[j]] != save_label_not[j])
                 if save_op[j] != Test:
