@@ -1,3 +1,3 @@
 # AI
-Artificial Intelligence/Machine Learning Program called the Progressive Logic Unit Subroutine or PLUSr for short.
+Artificial Intelligence/Machine Learning Program.
 Watch the program work:  https://youtu.be/sbjvOmnAp2A 
